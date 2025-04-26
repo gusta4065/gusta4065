@@ -119,7 +119,7 @@
 
    - JavaScript + SASS | Educational content organization  
 
-		For Essia
+	For Essia
   
 
 ---
